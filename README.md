@@ -1,4 +1,4 @@
-# Project title
+# Studying a Penning trap system using 4-th order Range-Kutta methods
 
 This repository contains the code for Project 3 in the course FYS3150/FYS4150 at the University of Oslo. 
 The project is developed by: Britt Haanen
